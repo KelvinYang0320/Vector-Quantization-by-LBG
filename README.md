@@ -9,5 +9,5 @@ as input and generates a representative subset of vectors *C* with a user specif
 ### The Initalized Codebook
 ![](https://github.com/KelvinYang0320/Vector-Quantization-by-LBG/blob/master/img/%E4%B8%8B%E8%BC%89%20(1).png)
 ### The Codebook after Traininig
-
+![](https://github.com/KelvinYang0320/Vector-Quantization-by-LBG/blob/master/img/%E4%B8%8B%E8%BC%89%20(2).png)
 
